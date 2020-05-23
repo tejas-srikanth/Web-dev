@@ -144,21 +144,19 @@ p{
 /* Contact */
 #cta{
   background-color: #ff4c68;
-  padding-top: 9%;
-  padding-bottom: 3%;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding: 7% 15%;
   text-align: center;
 }
 .bottom-text{
   font-family: "Montserrat";
   color: white;
   font-size: 3.5rem;
+  line-height: 1.5;
 }
 
 #footer{
   text-align: center;
-  margin: 4% auto 4% auto;
+  padding: 7% 15%;
 }
 .sm-icon{
   margin: 7px;
