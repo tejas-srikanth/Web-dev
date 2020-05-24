@@ -1,5 +1,4 @@
 #title{
-  background-color: #ff4c68;
 }
 
 
@@ -21,6 +20,15 @@ p{
   color: #8f8f8f
 }
 
+/* Sections */
+.coloured-section{
+    background-color: #ff4c68;
+    color: white;
+}
+
+.white-section{
+  background-color: #fff;
+}
 /* heading */
 @media (max-width: 1028px){
   .dog-selfie{
@@ -96,7 +104,6 @@ p{
 
 #features{
   padding: 7% 15%;
-  background-color: white;
   position: relative;
 }
 
@@ -108,7 +115,6 @@ p{
 #testimonials{
   text-align: center;
   background-color: #ef8172;
-  color: #fff;
 }
 
 .carousel-item{
@@ -165,7 +171,6 @@ p{
 
 /* Contact */
 #cta{
-  background-color: #ff4c68;
   padding-top: 9%;
   padding-bottom: 3%;
   padding-left: 10%;
@@ -173,7 +178,6 @@ p{
   text-align: center;
 }
 .bottom-text{
-  color: #fff;
   font-size: 3.5rem;
 }
 
